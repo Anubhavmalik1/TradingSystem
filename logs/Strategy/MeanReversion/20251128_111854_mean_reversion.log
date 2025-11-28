@@ -1,0 +1,146 @@
+2025-11-28 11:18:54,581 - INFO - Strategy Mean Reversion Logger initialized -> ./logs/Strategy/MeanReversion/20251128_111854_mean_reversion.log
+2025-11-28 11:18:54,620 - DEBUG - Subscribed to ZEROMQ market data feed
+2025-11-28 11:18:54,620 - INFO - Mean Reversion Strategy initialized for symbol 37054
+2025-11-28 11:18:54,622 - INFO - Strategy run loop started...
+2025-11-28 11:19:15,816 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 15), 'close': 25980.0}
+2025-11-28 11:19:15,816 - INFO - Indicators - Close=25980.00 | EMA=25980.00 | RSI=None | BBands=(None, None, None)
+2025-11-28 11:19:15,816 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 16), 'close': 25988.0}
+2025-11-28 11:19:15,830 - INFO - Indicators - Close=25988.00 | EMA=25980.76 | RSI=None | BBands=(None, None, None)
+2025-11-28 11:19:15,830 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 17), 'close': 25998.8}
+2025-11-28 11:19:15,832 - INFO - Indicators - Close=25998.80 | EMA=25982.48 | RSI=None | BBands=(None, None, None)
+2025-11-28 11:19:15,832 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 18), 'close': 25998.9}
+2025-11-28 11:19:15,833 - INFO - Indicators - Close=25998.90 | EMA=25984.04 | RSI=None | BBands=(None, None, None)
+2025-11-28 11:19:15,833 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 19), 'close': 26009.0}
+2025-11-28 11:19:15,833 - INFO - Indicators - Close=26009.00 | EMA=25986.42 | RSI=None | BBands=(None, None, None)
+2025-11-28 11:19:15,834 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 20), 'close': 26000.0}
+2025-11-28 11:19:15,835 - INFO - Indicators - Close=26000.00 | EMA=25987.71 | RSI=None | BBands=(None, None, None)
+2025-11-28 11:19:15,836 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 21), 'close': 26015.6}
+2025-11-28 11:19:15,837 - INFO - Indicators - Close=26015.60 | EMA=25990.37 | RSI=None | BBands=(None, None, None)
+2025-11-28 11:19:15,839 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 22), 'close': 26024.4}
+2025-11-28 11:19:15,839 - INFO - Indicators - Close=26024.40 | EMA=25993.61 | RSI=None | BBands=(None, None, None)
+2025-11-28 11:19:15,839 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 23), 'close': 26027.7}
+2025-11-28 11:19:15,840 - INFO - Indicators - Close=26027.70 | EMA=25996.86 | RSI=None | BBands=(None, None, None)
+2025-11-28 11:19:15,840 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 24), 'close': 26049.0}
+2025-11-28 11:19:15,840 - INFO - Indicators - Close=26049.00 | EMA=26001.82 | RSI=None | BBands=(None, None, None)
+2025-11-28 11:19:15,840 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 25), 'close': 26065.0}
+2025-11-28 11:19:15,840 - INFO - Indicators - Close=26065.00 | EMA=26007.84 | RSI=None | BBands=(None, None, None)
+2025-11-28 11:19:15,843 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 26), 'close': 26060.1}
+2025-11-28 11:19:15,843 - INFO - Indicators - Close=26060.10 | EMA=26012.82 | RSI=None | BBands=(None, None, None)
+2025-11-28 11:19:15,846 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 27), 'close': 26062.3}
+2025-11-28 11:19:15,846 - INFO - Indicators - Close=26062.30 | EMA=26017.53 | RSI=None | BBands=(None, None, None)
+2025-11-28 11:19:15,846 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 28), 'close': 26082.3}
+2025-11-28 11:19:15,846 - INFO - Indicators - Close=26082.30 | EMA=26023.70 | RSI=None | BBands=(None, None, None)
+2025-11-28 11:19:15,846 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 29), 'close': 26077.0}
+2025-11-28 11:19:15,846 - INFO - Indicators - Close=26077.00 | EMA=26028.77 | RSI=85.82 | BBands=(None, None, None)
+2025-11-28 11:19:15,848 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 30), 'close': 26074.0}
+2025-11-28 11:19:15,848 - INFO - Indicators - Close=26074.00 | EMA=26033.08 | RSI=82.98 | BBands=(None, None, None)
+2025-11-28 11:19:15,848 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 31), 'close': 26074.0}
+2025-11-28 11:19:15,849 - INFO - Indicators - Close=26074.00 | EMA=26036.98 | RSI=81.44 | BBands=(None, None, None)
+2025-11-28 11:19:15,850 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 32), 'close': 26085.0}
+2025-11-28 11:19:15,850 - INFO - Indicators - Close=26085.00 | EMA=26041.55 | RSI=82.99 | BBands=(None, None, None)
+2025-11-28 11:19:15,850 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 33), 'close': 26095.0}
+2025-11-28 11:19:15,850 - INFO - Indicators - Close=26095.00 | EMA=26046.64 | RSI=82.98 | BBands=(None, None, None)
+2025-11-28 11:19:15,850 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 34), 'close': 26109.1}
+2025-11-28 11:19:15,850 - INFO - Indicators - Close=26109.10 | EMA=26052.59 | RSI=90.26 | BBands=(25966.48, 26043.76, 26121.04)
+2025-11-28 11:19:15,850 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 35), 'close': 26110.0}
+2025-11-28 11:19:15,850 - INFO - Indicators - Close=26110.00 | EMA=26058.06 | RSI=89.07 | BBands=(25973.66, 26050.26, 26126.86)
+2025-11-28 11:19:15,850 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 36), 'close': 26107.0}
+2025-11-28 11:19:15,850 - INFO - Indicators - Close=26107.00 | EMA=26062.72 | RSI=85.91 | BBands=(25981.41, 26056.21, 26131.01)
+2025-11-28 11:19:15,850 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 37), 'close': 26101.5}
+2025-11-28 11:19:15,850 - INFO - Indicators - Close=26101.50 | EMA=26066.41 | RSI=81.48 | BBands=(25988.95, 26061.34, 26133.74)
+2025-11-28 11:19:15,850 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 38), 'close': 26108.9}
+2025-11-28 11:19:15,850 - INFO - Indicators - Close=26108.90 | EMA=26070.46 | RSI=78.99 | BBands=(25997.62, 26066.85, 26136.07)
+2025-11-28 11:19:15,850 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 39), 'close': 26105.0}
+2025-11-28 11:19:15,850 - INFO - Indicators - Close=26105.00 | EMA=26073.75 | RSI=71.93 | BBands=(26005.91, 26071.65, 26137.38)
+2025-11-28 11:19:15,850 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 40), 'close': 26094.7}
+2025-11-28 11:19:15,850 - INFO - Indicators - Close=26094.70 | EMA=26075.74 | RSI=67.91 | BBands=(26018.83, 26076.38, 26133.93)
+2025-11-28 11:19:15,854 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 41), 'close': 26097.9}
+2025-11-28 11:19:15,854 - INFO - Indicators - Close=26097.90 | EMA=26077.85 | RSI=68.24 | BBands=(26029.53, 26080.50, 26131.46)
+2025-11-28 11:19:15,854 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 42), 'close': 26092.8}
+2025-11-28 11:19:15,854 - INFO - Indicators - Close=26092.80 | EMA=26079.28 | RSI=56.35 | BBands=(26039.74, 26083.92, 26128.09)
+2025-11-28 11:19:15,854 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 43), 'close': 26096.2}
+2025-11-28 11:19:15,854 - INFO - Indicators - Close=26096.20 | EMA=26080.89 | RSI=61.88 | BBands=(26051.24, 26087.34, 26123.44)
+2025-11-28 11:19:15,854 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 44), 'close': 26090.0}
+2025-11-28 11:19:15,854 - INFO - Indicators - Close=26090.00 | EMA=26081.76 | RSI=59.52 | BBands=(26057.87, 26089.39, 26120.91)
+2025-11-28 11:19:15,856 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 45), 'close': 26088.9}
+2025-11-28 11:19:15,856 - INFO - Indicators - Close=26088.90 | EMA=26082.44 | RSI=58.75 | BBands=(26061.11, 26090.59, 26120.06)
+2025-11-28 11:19:15,856 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 46), 'close': 26084.9}
+2025-11-28 11:19:15,856 - INFO - Indicators - Close=26084.90 | EMA=26082.67 | RSI=49.94 | BBands=(26065.68, 26091.83, 26117.97)
+2025-11-28 11:19:15,856 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 47), 'close': 26093.5}
+2025-11-28 11:19:15,856 - INFO - Indicators - Close=26093.50 | EMA=26083.70 | RSI=49.02 | BBands=(26071.03, 26093.39, 26115.74)
+2025-11-28 11:19:15,856 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 48), 'close': 26100.0}
+2025-11-28 11:19:15,856 - INFO - Indicators - Close=26100.00 | EMA=26085.26 | RSI=43.42 | BBands=(26072.34, 26094.27, 26116.20)
+2025-11-28 11:19:15,859 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 49), 'close': 26087.0}
+2025-11-28 11:19:15,859 - INFO - Indicators - Close=26087.00 | EMA=26085.42 | RSI=35.84 | BBands=(26074.01, 26094.77, 26115.53)
+2025-11-28 11:19:15,859 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 50), 'close': 26089.0}
+2025-11-28 11:19:15,860 - INFO - Indicators - Close=26089.00 | EMA=26085.76 | RSI=38.78 | BBands=(26076.84, 26095.52, 26114.20)
+2025-11-28 11:19:15,860 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 51), 'close': 26095.5}
+2025-11-28 11:19:15,862 - INFO - Indicators - Close=26095.50 | EMA=26086.69 | RSI=46.31 | BBands=(26080.73, 26096.60, 26112.46)
+2025-11-28 11:19:15,862 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 52), 'close': 26084.8}
+2025-11-28 11:19:15,862 - INFO - Indicators - Close=26084.80 | EMA=26086.51 | RSI=35.74 | BBands=(26080.69, 26096.58, 26112.48)
+2025-11-28 11:19:15,862 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 53), 'close': 26077.5}
+2025-11-28 11:19:15,863 - INFO - Indicators - Close=26077.50 | EMA=26085.65 | RSI=34.36 | BBands=(26077.77, 26095.71, 26113.65)
+2025-11-28 11:19:15,864 - INFO - Order executed: {'order_id': 1, 'symbol': '37054', 'side': 'BUY', 'qty': 1, 'filled_price': 26085.92, 'timestamp': datetime.datetime(2025, 10, 31, 9, 53)}
+2025-11-28 11:19:15,864 - INFO - FILL RECORDED [ENTRY]: {'order_id': 1, 'symbol': '37054', 'side': 'BUY', 'qty': 1, 'filled_price': 26085.92, 'timestamp': datetime.datetime(2025, 10, 31, 9, 53)}
+2025-11-28 11:19:15,864 - INFO - BUY executed at 26085.92 | Time: 2025-10-31 09:53:00
+2025-11-28 11:19:18,278 - INFO - Exit condition triggered (EMA) at 2025-10-31 09:53:00
+2025-11-28 11:19:18,280 - INFO - Order executed: {'order_id': 2, 'symbol': '37054', 'side': 'SELL', 'qty': 1, 'filled_price': 26084.36, 'timestamp': datetime.datetime(2025, 10, 31, 9, 53)}
+2025-11-28 11:19:18,280 - INFO - FILL RECORDED [EXIT]: {'order_id': 2, 'symbol': '37054', 'side': 'SELL', 'qty': 1, 'filled_price': 26084.36, 'timestamp': datetime.datetime(2025, 10, 31, 9, 53)}
+2025-11-28 11:19:18,280 - INFO - 
+EXIT: Mean Reversion
+{'symbol': '37054', 'side': 'BUY', 'qty': 1, 'entry_time': datetime.datetime(2025, 10, 31, 9, 53), 'exit_time': datetime.datetime(2025, 10, 31, 9, 53), 'entry_price': 26085.92, 'exit_price': 26084.36, 'realized_pnl': -1.56, 'reason': 'EXIT_EMA'}
+2025-11-28 11:19:21,715 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 54), 'close': 26090.1}
+2025-11-28 11:19:21,715 - INFO - Indicators - Close=26090.10 | EMA=26086.08 | RSI=47.45 | BBands=(26077.77, 26094.76, 26111.75)
+2025-11-28 11:19:21,715 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 55), 'close': 26092.0}
+2025-11-28 11:19:21,715 - INFO - Indicators - Close=26092.00 | EMA=26086.64 | RSI=46.68 | BBands=(26078.35, 26093.86, 26109.37)
+2025-11-28 11:19:21,715 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 56), 'close': 26087.4}
+2025-11-28 11:19:21,715 - INFO - Indicators - Close=26087.40 | EMA=26086.71 | RSI=46.95 | BBands=(26078.37, 26092.88, 26107.39)
+2025-11-28 11:19:21,715 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 57), 'close': 26091.0}
+2025-11-28 11:19:21,715 - INFO - Indicators - Close=26091.00 | EMA=26087.12 | RSI=47.07 | BBands=(26078.38, 26092.35, 26106.33)
+2025-11-28 11:19:21,715 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 58), 'close': 26099.7}
+2025-11-28 11:19:21,715 - INFO - Indicators - Close=26099.70 | EMA=26088.32 | RSI=55.32 | BBands=(26079.62, 26091.90, 26104.17)
+2025-11-28 11:19:21,715 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 9, 59), 'close': 26090.0}
+2025-11-28 11:19:21,715 - INFO - Indicators - Close=26090.00 | EMA=26088.48 | RSI=50.55 | BBands=(26080.44, 26091.15, 26101.85)
+2025-11-28 11:19:21,715 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 10, 0), 'close': 26088.5}
+2025-11-28 11:19:21,715 - INFO - Indicators - Close=26088.50 | EMA=26088.48 | RSI=51.85 | BBands=(26080.20, 26090.83, 26101.47)
+2025-11-28 11:19:21,715 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 10, 1), 'close': 26077.0}
+2025-11-28 11:19:21,715 - INFO - Indicators - Close=26077.00 | EMA=26087.39 | RSI=41.76 | BBands=(26078.08, 26089.79, 26101.50)
+2025-11-28 11:19:21,715 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 10, 2), 'close': 26075.0}
+2025-11-28 11:19:21,715 - INFO - Indicators - Close=26075.00 | EMA=26086.21 | RSI=36.92 | BBands=(26075.64, 26088.90, 26102.16)
+2025-11-28 11:19:21,726 - INFO - Order executed: {'order_id': 3, 'symbol': '37054', 'side': 'BUY', 'qty': 1, 'filled_price': 26078.58, 'timestamp': datetime.datetime(2025, 10, 31, 10, 2)}
+2025-11-28 11:19:21,726 - INFO - FILL RECORDED [ENTRY]: {'order_id': 3, 'symbol': '37054', 'side': 'BUY', 'qty': 1, 'filled_price': 26078.58, 'timestamp': datetime.datetime(2025, 10, 31, 10, 2)}
+2025-11-28 11:19:21,726 - INFO - BUY executed at 26078.58 | Time: 2025-10-31 10:02:00
+2025-11-28 11:19:23,508 - INFO - Exit condition triggered (EMA) at 2025-10-31 10:02:00
+2025-11-28 11:19:23,509 - INFO - Order executed: {'order_id': 4, 'symbol': '37054', 'side': 'SELL', 'qty': 1, 'filled_price': 26076.6, 'timestamp': datetime.datetime(2025, 10, 31, 10, 2)}
+2025-11-28 11:19:23,509 - INFO - FILL RECORDED [EXIT]: {'order_id': 4, 'symbol': '37054', 'side': 'SELL', 'qty': 1, 'filled_price': 26076.6, 'timestamp': datetime.datetime(2025, 10, 31, 10, 2)}
+2025-11-28 11:19:23,509 - INFO - 
+EXIT: Mean Reversion
+{'symbol': '37054', 'side': 'BUY', 'qty': 1, 'entry_time': datetime.datetime(2025, 10, 31, 10, 2), 'exit_time': datetime.datetime(2025, 10, 31, 10, 2), 'entry_price': 26078.58, 'exit_price': 26076.6, 'realized_pnl': -1.98, 'reason': 'EXIT_EMA'}
+2025-11-28 11:19:25,851 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 10, 3), 'close': 26068.0}
+2025-11-28 11:19:25,851 - INFO - Indicators - Close=26068.00 | EMA=26084.47 | RSI=39.40 | BBands=(26071.85, 26087.49, 26103.13)
+2025-11-28 11:19:25,856 - INFO - Order executed: {'order_id': 5, 'symbol': '37054', 'side': 'BUY', 'qty': 1, 'filled_price': 26062.62, 'timestamp': datetime.datetime(2025, 10, 31, 10, 3)}
+2025-11-28 11:19:25,856 - INFO - FILL RECORDED [ENTRY]: {'order_id': 5, 'symbol': '37054', 'side': 'BUY', 'qty': 1, 'filled_price': 26062.62, 'timestamp': datetime.datetime(2025, 10, 31, 10, 3)}
+2025-11-28 11:19:25,856 - INFO - BUY executed at 26062.62 | Time: 2025-10-31 10:03:00
+2025-11-28 11:19:27,591 - INFO - Exit condition triggered (EMA) at 2025-10-31 10:03:00
+2025-11-28 11:19:27,598 - INFO - Order executed: {'order_id': 6, 'symbol': '37054', 'side': 'SELL', 'qty': 1, 'filled_price': 26076.13, 'timestamp': datetime.datetime(2025, 10, 31, 10, 3)}
+2025-11-28 11:19:27,600 - INFO - FILL RECORDED [EXIT]: {'order_id': 6, 'symbol': '37054', 'side': 'SELL', 'qty': 1, 'filled_price': 26076.13, 'timestamp': datetime.datetime(2025, 10, 31, 10, 3)}
+2025-11-28 11:19:27,600 - INFO - 
+EXIT: Mean Reversion
+{'symbol': '37054', 'side': 'BUY', 'qty': 1, 'entry_time': datetime.datetime(2025, 10, 31, 10, 3), 'exit_time': datetime.datetime(2025, 10, 31, 10, 3), 'entry_price': 26062.62, 'exit_price': 26076.13, 'realized_pnl': 13.51, 'reason': 'EXIT_EMA'}
+2025-11-28 11:19:29,118 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 10, 4), 'close': 26050.7}
+2025-11-28 11:19:29,118 - INFO - Indicators - Close=26050.70 | EMA=26081.26 | RSI=31.74 | BBands=(26063.20, 26085.53, 26107.85)
+2025-11-28 11:19:29,118 - INFO - Order executed: {'order_id': 7, 'symbol': '37054', 'side': 'BUY', 'qty': 1, 'filled_price': 26044.78, 'timestamp': datetime.datetime(2025, 10, 31, 10, 4)}
+2025-11-28 11:19:29,118 - INFO - FILL RECORDED [ENTRY]: {'order_id': 7, 'symbol': '37054', 'side': 'BUY', 'qty': 1, 'filled_price': 26044.78, 'timestamp': datetime.datetime(2025, 10, 31, 10, 4)}
+2025-11-28 11:19:29,118 - INFO - BUY executed at 26044.78 | Time: 2025-10-31 10:04:00
+2025-11-28 11:19:30,660 - INFO - Exit condition triggered (EMA) at 2025-10-31 10:04:00
+2025-11-28 11:19:30,663 - INFO - Order executed: {'order_id': 8, 'symbol': '37054', 'side': 'SELL', 'qty': 1, 'filled_price': 26037.93, 'timestamp': datetime.datetime(2025, 10, 31, 10, 4)}
+2025-11-28 11:19:30,663 - INFO - FILL RECORDED [EXIT]: {'order_id': 8, 'symbol': '37054', 'side': 'SELL', 'qty': 1, 'filled_price': 26037.93, 'timestamp': datetime.datetime(2025, 10, 31, 10, 4)}
+2025-11-28 11:19:30,663 - INFO - 
+EXIT: Mean Reversion
+{'symbol': '37054', 'side': 'BUY', 'qty': 1, 'entry_time': datetime.datetime(2025, 10, 31, 10, 4), 'exit_time': datetime.datetime(2025, 10, 31, 10, 4), 'entry_price': 26044.78, 'exit_price': 26037.93, 'realized_pnl': -6.85, 'reason': 'EXIT_EMA'}
+2025-11-28 11:19:32,506 - INFO - Market Data Received: {'symbol': '37054', 'timestamp': datetime.datetime(2025, 10, 31, 10, 5), 'close': 26051.2}
+2025-11-28 11:19:32,506 - INFO - Indicators - Close=26051.20 | EMA=26078.39 | RSI=27.60 | BBands=(26056.85, 26083.64, 26110.43)
+2025-11-28 11:19:32,508 - INFO - Order executed: {'order_id': 9, 'symbol': '37054', 'side': 'BUY', 'qty': 1, 'filled_price': 26052.71, 'timestamp': datetime.datetime(2025, 10, 31, 10, 5)}
+2025-11-28 11:19:32,508 - INFO - FILL RECORDED [ENTRY]: {'order_id': 9, 'symbol': '37054', 'side': 'BUY', 'qty': 1, 'filled_price': 26052.71, 'timestamp': datetime.datetime(2025, 10, 31, 10, 5)}
+2025-11-28 11:19:32,508 - INFO - BUY executed at 26052.71 | Time: 2025-10-31 10:05:00
+2025-11-28 11:19:33,912 - INFO - Interrupted by user.

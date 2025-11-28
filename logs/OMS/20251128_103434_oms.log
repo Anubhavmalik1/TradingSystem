@@ -1,0 +1,4 @@
+2025-11-28 10:34:42,577 - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2025-11-28 10:34:44,257 - DEBUG - https://api.telegram.org:443 "POST /bot8278088757:AAFeDq3X5Q8it-e5oeWIey3bAJsqt9vP0lY/sendMessage HTTP/1.1" 200 279
+2025-11-28 10:34:44,268 - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2025-11-28 10:34:45,899 - DEBUG - https://api.telegram.org:443 "POST /bot8278088757:AAFeDq3X5Q8it-e5oeWIey3bAJsqt9vP0lY/sendMessage HTTP/1.1" 200 361

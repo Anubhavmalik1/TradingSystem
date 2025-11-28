@@ -1,0 +1,80 @@
+2025-11-28 11:44:13,658 - INFO - OMS NEW ORDER: {'order_id': 1, 'symbol': '37054', 'side': 'BUY', 'qty': 1, 'price': 26077.5, 'timestamp': datetime.datetime(2025, 10, 31, 9, 53), 'status': 'NEW'}
+2025-11-28 11:44:13,663 - INFO - OMS EXECUTION: {'order_id': 1, 'symbol': '37054', 'side': 'BUY', 'qty': 1, 'filled_price': 26076.6, 'timestamp': datetime.datetime(2025, 10, 31, 9, 53)}
+2025-11-28 11:44:13,663 - INFO - NEW POSITION: {'side': 'BUY', 'qty': 1, 'avg_price': 26076.6}
+2025-11-28 11:44:13,671 - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2025-11-28 11:44:16,584 - DEBUG - https://api.telegram.org:443 "POST /bot8278088757:AAFeDq3X5Q8it-e5oeWIey3bAJsqt9vP0lY/sendMessage HTTP/1.1" 200 282
+2025-11-28 11:44:16,594 - INFO - OMS NEW ORDER: {'order_id': 2, 'symbol': '37054', 'side': 'SELL', 'qty': 1, 'price': 26077.5, 'timestamp': datetime.datetime(2025, 10, 31, 9, 53), 'status': 'NEW'}
+2025-11-28 11:44:16,594 - INFO - OMS EXECUTION: {'order_id': 2, 'symbol': '37054', 'side': 'SELL', 'qty': 1, 'filled_price': 26072.83, 'timestamp': datetime.datetime(2025, 10, 31, 9, 53)}
+2025-11-28 11:44:16,594 - INFO - TRADE CLOSED: OrderID=2 PnL=-3.77, CumulativePnL=-3.77
+2025-11-28 11:44:16,597 - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2025-11-28 11:44:18,204 - DEBUG - https://api.telegram.org:443 "POST /bot8278088757:AAFeDq3X5Q8it-e5oeWIey3bAJsqt9vP0lY/sendMessage HTTP/1.1" 200 514
+2025-11-28 11:44:18,218 - INFO - OMS NEW ORDER: {'order_id': 3, 'symbol': '37054', 'side': 'BUY', 'qty': 1, 'price': 26075.0, 'timestamp': datetime.datetime(2025, 10, 31, 10, 2), 'status': 'NEW'}
+2025-11-28 11:44:18,218 - INFO - OMS EXECUTION: {'order_id': 3, 'symbol': '37054', 'side': 'BUY', 'qty': 1, 'filled_price': 26066.82, 'timestamp': datetime.datetime(2025, 10, 31, 10, 2)}
+2025-11-28 11:44:18,218 - INFO - NEW POSITION: {'side': 'BUY', 'qty': 1, 'avg_price': 26066.82}
+2025-11-28 11:44:18,222 - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2025-11-28 11:44:19,754 - DEBUG - https://api.telegram.org:443 "POST /bot8278088757:AAFeDq3X5Q8it-e5oeWIey3bAJsqt9vP0lY/sendMessage HTTP/1.1" 200 283
+2025-11-28 11:44:19,754 - INFO - OMS NEW ORDER: {'order_id': 4, 'symbol': '37054', 'side': 'SELL', 'qty': 1, 'price': 26075.0, 'timestamp': datetime.datetime(2025, 10, 31, 10, 2), 'status': 'NEW'}
+2025-11-28 11:44:19,754 - INFO - OMS EXECUTION: {'order_id': 4, 'symbol': '37054', 'side': 'SELL', 'qty': 1, 'filled_price': 26074.29, 'timestamp': datetime.datetime(2025, 10, 31, 10, 2)}
+2025-11-28 11:44:19,754 - INFO - TRADE CLOSED: OrderID=4 PnL=7.47, CumulativePnL=3.70
+2025-11-28 11:44:19,762 - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2025-11-28 11:44:21,396 - DEBUG - https://api.telegram.org:443 "POST /bot8278088757:AAFeDq3X5Q8it-e5oeWIey3bAJsqt9vP0lY/sendMessage HTTP/1.1" 200 514
+2025-11-28 11:44:21,403 - INFO - OMS NEW ORDER: {'order_id': 5, 'symbol': '37054', 'side': 'BUY', 'qty': 1, 'price': 26068.0, 'timestamp': datetime.datetime(2025, 10, 31, 10, 3), 'status': 'NEW'}
+2025-11-28 11:44:21,403 - INFO - OMS EXECUTION: {'order_id': 5, 'symbol': '37054', 'side': 'BUY', 'qty': 1, 'filled_price': 26057.68, 'timestamp': datetime.datetime(2025, 10, 31, 10, 3)}
+2025-11-28 11:44:21,403 - INFO - NEW POSITION: {'side': 'BUY', 'qty': 1, 'avg_price': 26057.68}
+2025-11-28 11:44:21,403 - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2025-11-28 11:44:23,244 - DEBUG - https://api.telegram.org:443 "POST /bot8278088757:AAFeDq3X5Q8it-e5oeWIey3bAJsqt9vP0lY/sendMessage HTTP/1.1" 200 283
+2025-11-28 11:44:23,247 - INFO - OMS NEW ORDER: {'order_id': 6, 'symbol': '37054', 'side': 'SELL', 'qty': 1, 'price': 26068.0, 'timestamp': datetime.datetime(2025, 10, 31, 10, 3), 'status': 'NEW'}
+2025-11-28 11:44:23,256 - INFO - OMS EXECUTION: {'order_id': 6, 'symbol': '37054', 'side': 'SELL', 'qty': 1, 'filled_price': 26065.72, 'timestamp': datetime.datetime(2025, 10, 31, 10, 3)}
+2025-11-28 11:44:23,258 - INFO - TRADE CLOSED: OrderID=6 PnL=8.04, CumulativePnL=11.74
+2025-11-28 11:44:23,268 - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2025-11-28 11:44:24,874 - DEBUG - https://api.telegram.org:443 "POST /bot8278088757:AAFeDq3X5Q8it-e5oeWIey3bAJsqt9vP0lY/sendMessage HTTP/1.1" 200 514
+2025-11-28 11:44:24,874 - INFO - OMS NEW ORDER: {'order_id': 7, 'symbol': '37054', 'side': 'BUY', 'qty': 1, 'price': 26050.7, 'timestamp': datetime.datetime(2025, 10, 31, 10, 4), 'status': 'NEW'}
+2025-11-28 11:44:24,874 - INFO - OMS EXECUTION: {'order_id': 7, 'symbol': '37054', 'side': 'BUY', 'qty': 1, 'filled_price': 26063.07, 'timestamp': datetime.datetime(2025, 10, 31, 10, 4)}
+2025-11-28 11:44:24,874 - INFO - NEW POSITION: {'side': 'BUY', 'qty': 1, 'avg_price': 26063.07}
+2025-11-28 11:44:24,874 - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2025-11-28 11:44:26,417 - DEBUG - https://api.telegram.org:443 "POST /bot8278088757:AAFeDq3X5Q8it-e5oeWIey3bAJsqt9vP0lY/sendMessage HTTP/1.1" 200 283
+2025-11-28 11:44:26,417 - INFO - OMS NEW ORDER: {'order_id': 8, 'symbol': '37054', 'side': 'SELL', 'qty': 1, 'price': 26050.7, 'timestamp': datetime.datetime(2025, 10, 31, 10, 4), 'status': 'NEW'}
+2025-11-28 11:44:26,417 - INFO - OMS EXECUTION: {'order_id': 8, 'symbol': '37054', 'side': 'SELL', 'qty': 1, 'filled_price': 26049.06, 'timestamp': datetime.datetime(2025, 10, 31, 10, 4)}
+2025-11-28 11:44:26,417 - INFO - TRADE CLOSED: OrderID=8 PnL=-14.01, CumulativePnL=-2.27
+2025-11-28 11:44:26,425 - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2025-11-28 11:44:28,157 - DEBUG - https://api.telegram.org:443 "POST /bot8278088757:AAFeDq3X5Q8it-e5oeWIey3bAJsqt9vP0lY/sendMessage HTTP/1.1" 200 516
+2025-11-28 11:44:28,160 - INFO - OMS NEW ORDER: {'order_id': 9, 'symbol': '37054', 'side': 'BUY', 'qty': 1, 'price': 26051.2, 'timestamp': datetime.datetime(2025, 10, 31, 10, 5), 'status': 'NEW'}
+2025-11-28 11:44:28,160 - INFO - OMS EXECUTION: {'order_id': 9, 'symbol': '37054', 'side': 'BUY', 'qty': 1, 'filled_price': 26044.34, 'timestamp': datetime.datetime(2025, 10, 31, 10, 5)}
+2025-11-28 11:44:28,160 - INFO - NEW POSITION: {'side': 'BUY', 'qty': 1, 'avg_price': 26044.34}
+2025-11-28 11:44:28,160 - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2025-11-28 11:44:29,878 - DEBUG - https://api.telegram.org:443 "POST /bot8278088757:AAFeDq3X5Q8it-e5oeWIey3bAJsqt9vP0lY/sendMessage HTTP/1.1" 200 283
+2025-11-28 11:44:29,892 - INFO - OMS NEW ORDER: {'order_id': 10, 'symbol': '37054', 'side': 'SELL', 'qty': 1, 'price': 26051.2, 'timestamp': datetime.datetime(2025, 10, 31, 10, 5), 'status': 'NEW'}
+2025-11-28 11:44:29,892 - INFO - OMS EXECUTION: {'order_id': 10, 'symbol': '37054', 'side': 'SELL', 'qty': 1, 'filled_price': 26039.31, 'timestamp': datetime.datetime(2025, 10, 31, 10, 5)}
+2025-11-28 11:44:29,892 - INFO - TRADE CLOSED: OrderID=10 PnL=-5.03, CumulativePnL=-7.30
+2025-11-28 11:44:29,896 - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2025-11-28 11:44:31,931 - DEBUG - https://api.telegram.org:443 "POST /bot8278088757:AAFeDq3X5Q8it-e5oeWIey3bAJsqt9vP0lY/sendMessage HTTP/1.1" 200 515
+2025-11-28 11:44:31,948 - INFO - OMS NEW ORDER: {'order_id': 11, 'symbol': '37054', 'side': 'BUY', 'qty': 1, 'price': 26040.7, 'timestamp': datetime.datetime(2025, 10, 31, 10, 7), 'status': 'NEW'}
+2025-11-28 11:44:31,948 - INFO - OMS EXECUTION: {'order_id': 11, 'symbol': '37054', 'side': 'BUY', 'qty': 1, 'filled_price': 26034.32, 'timestamp': datetime.datetime(2025, 10, 31, 10, 7)}
+2025-11-28 11:44:31,948 - INFO - NEW POSITION: {'side': 'BUY', 'qty': 1, 'avg_price': 26034.32}
+2025-11-28 11:44:31,948 - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2025-11-28 11:44:33,584 - DEBUG - https://api.telegram.org:443 "POST /bot8278088757:AAFeDq3X5Q8it-e5oeWIey3bAJsqt9vP0lY/sendMessage HTTP/1.1" 200 283
+2025-11-28 11:44:33,591 - INFO - OMS NEW ORDER: {'order_id': 12, 'symbol': '37054', 'side': 'SELL', 'qty': 1, 'price': 26040.7, 'timestamp': datetime.datetime(2025, 10, 31, 10, 7), 'status': 'NEW'}
+2025-11-28 11:44:33,591 - INFO - OMS EXECUTION: {'order_id': 12, 'symbol': '37054', 'side': 'SELL', 'qty': 1, 'filled_price': 26031.76, 'timestamp': datetime.datetime(2025, 10, 31, 10, 7)}
+2025-11-28 11:44:33,591 - INFO - TRADE CLOSED: OrderID=12 PnL=-2.56, CumulativePnL=-9.86
+2025-11-28 11:44:33,602 - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2025-11-28 11:44:35,419 - DEBUG - https://api.telegram.org:443 "POST /bot8278088757:AAFeDq3X5Q8it-e5oeWIey3bAJsqt9vP0lY/sendMessage HTTP/1.1" 200 515
+2025-11-28 11:44:35,432 - INFO - OMS NEW ORDER: {'order_id': 13, 'symbol': '37054', 'side': 'BUY', 'qty': 1, 'price': 26025.0, 'timestamp': datetime.datetime(2025, 10, 31, 10, 8), 'status': 'NEW'}
+2025-11-28 11:44:35,435 - INFO - OMS EXECUTION: {'order_id': 13, 'symbol': '37054', 'side': 'BUY', 'qty': 1, 'filled_price': 26016.45, 'timestamp': datetime.datetime(2025, 10, 31, 10, 8)}
+2025-11-28 11:44:35,435 - INFO - NEW POSITION: {'side': 'BUY', 'qty': 1, 'avg_price': 26016.45}
+2025-11-28 11:44:35,435 - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2025-11-28 11:44:36,962 - DEBUG - https://api.telegram.org:443 "POST /bot8278088757:AAFeDq3X5Q8it-e5oeWIey3bAJsqt9vP0lY/sendMessage HTTP/1.1" 200 283
+2025-11-28 11:44:36,962 - INFO - OMS NEW ORDER: {'order_id': 14, 'symbol': '37054', 'side': 'SELL', 'qty': 1, 'price': 26025.0, 'timestamp': datetime.datetime(2025, 10, 31, 10, 8), 'status': 'NEW'}
+2025-11-28 11:44:36,962 - INFO - OMS EXECUTION: {'order_id': 14, 'symbol': '37054', 'side': 'SELL', 'qty': 1, 'filled_price': 26015.82, 'timestamp': datetime.datetime(2025, 10, 31, 10, 8)}
+2025-11-28 11:44:36,962 - INFO - TRADE CLOSED: OrderID=14 PnL=-0.63, CumulativePnL=-10.49
+2025-11-28 11:44:36,969 - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2025-11-28 11:44:40,240 - DEBUG - https://api.telegram.org:443 "POST /bot8278088757:AAFeDq3X5Q8it-e5oeWIey3bAJsqt9vP0lY/sendMessage HTTP/1.1" 200 515
+2025-11-28 11:44:40,268 - INFO - OMS NEW ORDER: {'order_id': 15, 'symbol': '37054', 'side': 'BUY', 'qty': 1, 'price': 25963.0, 'timestamp': datetime.datetime(2025, 10, 31, 10, 31), 'status': 'NEW'}
+2025-11-28 11:44:40,268 - INFO - OMS EXECUTION: {'order_id': 15, 'symbol': '37054', 'side': 'BUY', 'qty': 1, 'filled_price': 25971.85, 'timestamp': datetime.datetime(2025, 10, 31, 10, 31)}
+2025-11-28 11:44:40,268 - INFO - NEW POSITION: {'side': 'BUY', 'qty': 1, 'avg_price': 25971.85}
+2025-11-28 11:44:40,270 - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2025-11-28 11:44:42,079 - DEBUG - https://api.telegram.org:443 "POST /bot8278088757:AAFeDq3X5Q8it-e5oeWIey3bAJsqt9vP0lY/sendMessage HTTP/1.1" 200 283
+2025-11-28 11:44:42,090 - INFO - OMS NEW ORDER: {'order_id': 16, 'symbol': '37054', 'side': 'SELL', 'qty': 1, 'price': 25963.0, 'timestamp': datetime.datetime(2025, 10, 31, 10, 31), 'status': 'NEW'}
+2025-11-28 11:44:42,090 - INFO - OMS EXECUTION: {'order_id': 16, 'symbol': '37054', 'side': 'SELL', 'qty': 1, 'filled_price': 25966.17, 'timestamp': datetime.datetime(2025, 10, 31, 10, 31)}
+2025-11-28 11:44:42,090 - INFO - TRADE CLOSED: OrderID=16 PnL=-5.68, CumulativePnL=-16.17
+2025-11-28 11:44:42,097 - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2025-11-28 11:44:43,051 - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443

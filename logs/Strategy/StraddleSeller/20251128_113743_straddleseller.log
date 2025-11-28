@@ -1,0 +1,24 @@
+2025-11-28 11:37:43,864 - INFO - StraddleSeller logger initialized -> ./logs/Strategy/StraddleSeller/20251128_113743_straddleseller.log
+2025-11-28 11:37:43,868 - INFO - ZMQ context initialized
+2025-11-28 11:37:43,868 - INFO - StraddleSeller run loop started...
+2025-11-28 11:37:50,459 - INFO - Received market data | Time: 2025-10-31 09:15:00 | Spot: 25863.8
+2025-11-28 11:37:50,459 - INFO - Received market data | Time: 2025-10-31 09:16:00 | Spot: 25833.6
+2025-11-28 11:37:50,460 - INFO - Received market data | Time: 2025-10-31 09:17:00 | Spot: 25844.0
+2025-11-28 11:37:50,460 - INFO - Received market data | Time: 2025-10-31 09:18:00 | Spot: 25848.05
+2025-11-28 11:37:50,461 - INFO - Received market data | Time: 2025-10-31 09:19:00 | Spot: 25853.15
+2025-11-28 11:37:50,461 - INFO - Received market data | Time: 2025-10-31 09:20:00 | Spot: 25862.85
+2025-11-28 11:37:50,461 - INFO - Placing straddle at 2025-10-31 09:20:00 | Spot: 25862.85 | ATM Strike: 25850
+2025-11-28 11:37:50,461 - INFO - Call token ID : 52889 | Put token ID : 52896
+2025-11-28 11:37:50,567 - WARNING - No packet received for token 52889 after timeout at 2025-10-31 09:20:00
+2025-11-28 11:37:50,567 - WARNING - No market data for token 52889 at 2025-10-31 09:20:00
+2025-11-28 11:37:50,679 - WARNING - No packet received for token 52896 after timeout at 2025-10-31 09:20:00
+2025-11-28 11:37:50,680 - WARNING - No market data for token 52896 at 2025-10-31 09:20:00
+2025-11-28 11:37:50,681 - ERROR - No Data for option premiums, aborting straddle placement
+2025-11-28 11:37:52,507 - INFO - Subscription closed for get_market_data
+2025-11-28 11:37:54,538 - INFO - DAILY REPORT: DAY REPORT: Short Straddle
+• Date: 2025-11-28
+• Total Trades: 0
+• Wins: 0
+• Losses: 0
+• Total PnL: 0
+
